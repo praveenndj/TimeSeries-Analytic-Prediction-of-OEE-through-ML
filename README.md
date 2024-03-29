@@ -9,7 +9,7 @@ Steps involved in the Prediction :
 6. Making accuracy check and plotting residual graph
 7. Visualizing the Predictions.
 
-   Comments have been added at each sections for ensuring the code readability.
+  
 
    DEVELOPED BY,
    PRAVEENN DJ
